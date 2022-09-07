@@ -4,7 +4,6 @@
 
 This website acts to help me along my journey to become a web dev by acting as a source of information about the main topics.
 
-
 ## Installation
 
 N/A
